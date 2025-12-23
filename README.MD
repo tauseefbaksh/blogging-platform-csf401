@@ -1,47 +1,7 @@
-## Blogging Platform - Spring Boot Project 9 Blogging Platform - Spring Boot Project 9
-**Student Name: Tauseef Baksh  
-**Student ID: 12320526
-**Project:9 - Blogging Platform
-
-## Description Description
-Spring Boot blogging platform with authors, posts, comments, tags, and profiles.
-
-## Features
-- Full CRUD for all entities Full CRUD for all entities
-- Enum: PostStatus (DRAFT, PUBLISHED, ARCHIVED)
-- Embedded: ContactInfo in Profile
-- 12 custom queries 12 custom queries
-- Dev (H2) and Prod (MySQL) profiles
-- Spring Boot Actuator
-
-## Run
-Dev mode: Dev mode: `mvn spring-boot:run -Dspring-boot.run.profiles=dev`    
-Prod mode: Prod mode: `mvn spring-boot:run -Dspring-boot.run.profiles=prod`
-
-#### API Endpoints
-- Authors: `/api/authors`
-- Profiles: `/api/profiles`
-- Posts: `/api/posts`
-- Comments: `/api/comments`
-- Tags: `/api/tags`
-- Actuator: `/actuator/health`
-
-#### GitHub GitHub
-Repository: YOUR_GITHUB_LINK_HER
-
-
-
-
-
-
-
-
-
-
 # Blogging Platform - Spring Boot Project 9
 
-**Student Name:** [YOUR NAME HERE]  
-**Student ID:** [YOUR STUDENT ID HERE]  
+**Student Name:** Tauseef Baksh 
+**Student ID:** 12320526 
 **Project Number:** 9 - Blogging Platform  
 **Course:** CSF401 - CA2 Assignment  
 **Submission Date:** December 24, 2025
@@ -173,7 +133,7 @@ Use Postman or curl to test endpoints. Sample requests are in the API documentat
 
 ## GitHub Repository
 
-[YOUR GITHUB REPO LINK HERE]
+https://github.com/tauseefbaksh/blogging-platform-csf401.git
 
 ## License
 
